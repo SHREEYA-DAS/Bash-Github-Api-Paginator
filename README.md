@@ -32,4 +32,8 @@
 <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
 <h2>License:</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<h2>Programming language used:</h2>
+<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/> </a></p>
 
+## Developer
+*   [@SHREEYA-DAS](https://github.com/SHREEYA-DAS)
