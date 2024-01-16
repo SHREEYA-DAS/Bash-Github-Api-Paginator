@@ -14,9 +14,13 @@
 
 ```bash
 ./github_api_handler.sh [your-github-token] [github-api-endpoint]
+```
 
 <h2>Example:</h2>
+
+```bash
 ./github_api_handler.sh myAccessToken /users/octocat/repos
+```
 
 <h2>Dependencies:</h2>
 <ul>
@@ -28,4 +32,4 @@
 <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
 <h2>License:</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-```
+
